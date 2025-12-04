@@ -1,15 +1,19 @@
-<h2 align="left">👋 Olá! Me chamo João Gabriel e sou estudante de Engenharia da Computação. <br><br>📚 Atualmente, estou expandindo meus conhecimentos  em  desenvolvimento de software, estrutura de dados e sistemas computacionais.<br><br>⚡ Seja bem-vindo ao meu repositório! Vamos codar! 😃</h2>
+<h2 align="left">
+  👋 Hi! My name is João Gabriel. I'm a Computer Engineering student.<br><br>
+  📚 I'm learning Web Development, Data Manipulation, and SystemVerilog.<br><br>
+  ⚡ Welcome to my repository!! 😃
+</h2>
 
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielTVS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoGabrielTVS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
+
 
 <img align="right" height="250" src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
@@ -37,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
+
 
 <div align="left">
  
