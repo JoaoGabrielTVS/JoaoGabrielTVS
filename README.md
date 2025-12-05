@@ -1,7 +1,7 @@
 <h2 align="left">
   👋 Hi! My name is João Gabriel. I'm a Computer Engineering student.<br><br>
   📚 I'm learning Web Development, Data Manipulation, and SystemVerilog.<br><br>
-  ⚡ Welcome to my repository!! 😃
+  ⚡ Welcome to my github!! 😃
 </h2>
 
 
